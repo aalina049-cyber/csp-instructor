@@ -340,32 +340,66 @@ Synthesize the shared visual language from the following references:
 
 ## VIII. OUTPUT STRUCTURE
 
-Produce the guide in the exact sequence below. Do not skip, shorten, summarize, or combine any section. Every section must reach production-ready completeness before the next begins.
+Produce the guide across the 10 phases below, in this exact order. Within each phase, complete every sub-section to production-ready state before advancing. Do not skip, shorten, summarize, or combine any phase or sub-section.
 
-1. Hidden Pattern Extraction from References
-2. Core Visual Language Rules
-3. Canvas Setup for iPhone 13
-4. Grid and Safe Zone System
-5. Layer Folder Hierarchy
-6. Naming Convention System
-7. Color System
-8. Typography System
-9. Shape Language Rules
-10. Line System
-11. Glow System
-12. Light Spill System
-13. Glitch and Noise System
-14. Reusable Asset Workflow
-15. Main Status Panel Construction
-16. HP / MP / Energy Bar Construction
-17. Quest Window Construction
-18. Inventory Window Construction
-19. Character Stat Window Construction
-20. Alert / Warning / Critical Error Window Construction
-21. Mini Notification Window Construction
-22. Background FX Layer Construction
-23. Mobile Readability Validation
-24. Optimization for Episodic Production
-25. Professional Studio Tricks and Hidden Efficiency Methods
-26. Common Mistakes
-27. Final AAA Production Checklist
+### Phase 1 — Pattern Extraction
+- Hidden Pattern Extraction from References (shared visual DNA from all six reference titles)
+
+### Phase 2 — Design Rules
+- Core Visual Language Rules (aesthetic constraints, prohibited approaches, hierarchy logic)
+
+### Phase 3 — Canvas and Grid
+- Canvas Setup for iPhone 13
+- Grid and Safe Zone System
+
+### Phase 4 — Layer Foundation
+- Layer Folder Hierarchy
+- Naming Convention System
+
+### Phase 5 — Design Systems
+- Color System
+- Typography System
+- Shape Language Rules
+- Line System
+
+### Phase 6 — FX Architecture
+- Glow System
+- Light Spill System
+- Glitch and Noise System
+
+### Phase 7 — Component Construction
+Each component must be completed step by step before the next begins:
+- Main Status Panel
+- HP / MP / Energy Bars
+- Quest Window
+- Inventory Window
+- Character Stat Panel
+- Alert / Warning / Critical Error Window
+- Mini Notification Window
+- Background FX Layer
+
+### Phase 8 — Scene Integration
+- Mobile Readability Validation (25%, 50%, 100% zoom; 1-second comprehension test)
+- Scene compatibility check (dark, bright, monochrome, battle, fog, high-contrast)
+
+### Phase 9 — Optimization Workflows
+- Reusable Asset Workflow (File Object vs Material vs Template comparison)
+- Optimization for Episodic Production
+- Common Mistakes
+
+### Phase 10 — Production Secrets
+- Professional Studio Tricks and Hidden Efficiency Methods
+- Final AAA Production Checklist
+
+---
+
+## IX. EXECUTION STANDARDS
+
+Every section of the guide must satisfy all six standards before it is considered complete:
+
+1. **Zero placeholders** — no "TBD", "as needed", "adjust to taste", or equivalent
+2. **Zero interpretation gaps** — every value, setting, and parameter is explicitly stated
+3. **Zero invented features** — no tools, blend modes, or filters that do not exist in CSP EX
+4. **Complete to production-ready** — each component is fully finished, not described in outline form
+5. **Mobile readability validated** — every element confirmed readable at 25%, 50%, and 100% zoom on iPhone 13
+6. **Non-destructive preserved** — every component remains fully editable after completion
